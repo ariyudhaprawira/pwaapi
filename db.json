@@ -1,0 +1,24 @@
+{
+"product;[
+[{"id":1,"name":"Guerza","category":"Goldenrod"},
+{"id":2,"name":"Stork, white","category":"Crimson"},
+{"id":3,"name":"Jungle kangaroo","category":"Pink"},
+{"id":4,"name":"African elephant","category":"Khaki"},
+{"id":5,"name":"Sheep, stone","category":"Mauv"},
+{"id":6,"name":"Red sheep","category":"Orange"},
+{"id":7,"name":"Cockatoo, long-billed","category":"Crimson"},
+{"id":8,"name":"Pied avocet","category":"Violet"},
+{"id":9,"name":"Eastern grey kangaroo","category":"Crimson"},
+{"id":10,"name":"Badger, honey","category":"Crimson"},
+{"id":11,"name":"Collared peccary","category":"Green"},
+{"id":12,"name":"Lappet-faced vulture","category":"Green"},
+{"id":13,"name":"Indian red admiral","category":"Teal"},
+{"id":14,"name":"Tropical buckeye butterfly","category":"Teal"},
+{"id":15,"name":"Pie, indian tree","category":"Blue"},
+{"id":16,"name":"Fisher","category":"Purple"},
+{"id":17,"name":"Pallas's fish eagle","category":"Red"},
+{"id":18,"name":"Royal tern","category":"Khaki"},
+{"id":19,"name":"Boa, columbian rainbow","category":"Red"},
+{"id":20,"name":"Desert tortoise","category":"Mauv"}
+]
+}
