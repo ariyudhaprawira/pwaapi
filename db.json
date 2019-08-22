@@ -1,6 +1,6 @@
 {
-"product:
-[{"id":1,"name":"Guerza","category":"Goldenrod"},
+"products: [
+{"id":1,"name":"Guerza","category":"Goldenrod"},
 {"id":2,"name":"Stork, white","category":"Crimson"},
 {"id":3,"name":"Jungle kangaroo","category":"Pink"},
 {"id":4,"name":"African elephant","category":"Khaki"},
